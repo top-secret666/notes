@@ -1,0 +1,53 @@
+# Auto-Link Enhancements
+
+Semantically safe suggestions for weak nodes (max 2 per node):
+- Assessment-Tests -> Company-Requirements; Focus-Today
+- Auto-Progress -> Company-Requirements; Focus-Today
+- Company-Requirements -> Focus-Today; Auto-Progress
+- Cyberpunk-English-Kanban -> Company-Requirements; Focus-Today
+- Dashboard -> Company-Requirements; Focus-Today
+- Focus-Today -> Company-Requirements; Auto-Progress
+- Interview-Map -> Company-Requirements; Focus-Today
+- Java-Theory-Plan -> Company-Requirements; Focus-Today
+- Mock-Interview-Log -> Company-Requirements; Focus-Today
+- Plugins-Install-Guide -> Company-Requirements; Focus-Today
+- Progress-Dashboard -> Company-Requirements; Focus-Today
+- Projects-Dashboard -> Company-Requirements; Focus-Today
+- Projects-Hub -> Company-Requirements; Focus-Today
+- Projects-Polish -> Company-Requirements; Focus-Today
+- Question-Tracker -> Company-Requirements; Focus-Today
+- Questions-Backlog -> Company-Requirements; Focus-Today
+- repair-instructions -> Company-Requirements; Focus-Today
+- Start-Here -> Company-Requirements; Focus-Today
+- Start-UI -> Company-Requirements; Focus-Today
+- Tags -> Company-Requirements; Focus-Today
+- Templates -> Company-Requirements; Focus-Today
+- Today-Panel -> Company-Requirements; Focus-Today
+- Weekly-Checklist -> Company-Requirements; Focus-Today
+- Weekly-Kanban -> Company-Requirements; Focus-Today
+- Weekly-Progress -> Company-Requirements; Focus-Today
+- Weekly-Review -> Company-Requirements; Focus-Today
+- Workbook-Home -> Company-Requirements; Focus-Today
+- 00_SYSTEM/Calendar-instructions -> 00_SYSTEM/Start-ui; 00_SYSTEM/Start-here
+- 00_SYSTEM/templates/Lesson-template -> 00_SYSTEM/Start-ui; 00_SYSTEM/Start-here
+- 01_DASHBOARD/Knowledge-score -> 01_DASHBOARD/Vault-index; 01_DASHBOARD/Progress-dashboard
+- 01_DASHBOARD/Study-planner-dashboard -> 01_DASHBOARD/Vault-index; 01_DASHBOARD/Progress-dashboard
+- 02_LEARNING/Algorithms/algorithms-index -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/English/english-learning/English-Daily-Log -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/English/english-learning/English-Flashcards -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/English/english-learning/English-Plan -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/English/english-learning/English-Task-Template -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/English/english-learning/English-Task-Test-2026-02-12-0900 -> 02_LEARNING/Java_Backend/java-lessons/lesson-intro; 02_LEARNING/Workbook-home
+- 02_LEARNING/English/english-learning/Interview-English-Scripts -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/English/english-learning/Lesson - 1 -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/English/english-learning/Unknown-Word-Anki-Template -> 02_LEARNING/Java_Backend/java-lessons/lesson-intro; 02_LEARNING/Workbook-home
+- 02_LEARNING/English/english-learning/Unknown-Word-Template -> 02_LEARNING/Java_Backend/java-lessons/lesson-intro; 02_LEARNING/Workbook-home
+- 02_LEARNING/English/english-learning/Words-To-Learn -> 02_LEARNING/Java_Backend/java-lessons/lesson-intro; 02_LEARNING/Workbook-home
+- 02_LEARNING/Java_Backend/java-lessons/lesson-git -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/Java_Backend/java-lessons/lesson-jvm-jmm-gc -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/Java_Backend/java-lessons/lesson-spring-core -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/Java_Backend/java-lessons/lesson-sql -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/Java_Backend/java-lessons/lesson-template -> 02_LEARNING/Java_Backend/java-lessons/lesson-intro; 02_LEARNING/Workbook-home
+- 02_LEARNING/Java_Backend/java-lessons/lesson-test-2026-02-12 -> 02_LEARNING/Java_Backend/java-lessons/lesson-intro; 02_LEARNING/Workbook-home
+- 02_LEARNING/Java_Backend/java-lessons/lessons-index -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
+- 02_LEARNING/Java_Backend/java-practice/Java-Daily-Log -> 02_LEARNING/Index; 02_LEARNING/Java_Backend/java-lessons/lesson-intro
